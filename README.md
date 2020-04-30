@@ -27,6 +27,7 @@ Some screenshots are given below:
 
 
 ![](https://github.com/sakshi-kas/library-management/blob/master/1.png)
+Write name and password: It must be admin for name and admin123 for password
 
 ![](https://github.com/sakshi-kas/library-management/blob/master/2.png)
 
@@ -40,16 +41,21 @@ Some screenshots are given below:
 ![](https://github.com/sakshi-kas/library-management/blob/master/6.png)
 
 ![](https://github.com/sakshi-kas/library-management/blob/master/7.png)
+Now click on view librarian to see records of librarian.
 
 ![](https://github.com/sakshi-kas/library-management/blob/master/8.png)
+Now close the table.
 
 ![](https://github.com/sakshi-kas/library-management/blob/master/9.png)
+Now click on Delete Librarian.
 
 ![](https://github.com/sakshi-kas/library-management/blob/master/10.png)
 
 ![](https://github.com/sakshi-kas/library-management/blob/master/11.png)
+Again click on the View Librarian button. You can see librarian is deleted successfully.
 
 ![](https://github.com/sakshi-kas/library-management/blob/master/12.png)
+Now close the table.
 
 ![](https://github.com/sakshi-kas/library-management/blob/master/13.png)
 
