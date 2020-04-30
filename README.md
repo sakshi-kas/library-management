@@ -62,6 +62,7 @@ Now close the table.
 ![](https://github.com/sakshi-kas/library-management/blob/master/14.png)
 
 ![](https://github.com/sakshi-kas/library-management/blob/master/15.png)
+Now close the table.
 
 ![](https://github.com/sakshi-kas/library-management/blob/master/16.png)
 
