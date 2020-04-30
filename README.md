@@ -25,7 +25,8 @@ Front End and Back End
 How project works?
 Some screenshots are given below:
 
-![](https://github.com/sakshi-kas/library-management/blob/master/1.png
+
+![](https://github.com/sakshi-kas/library-management/blob/master/1.png)
 
 ![](https://github.com/sakshi-kas/library-management/blob/master/2.png)
 
