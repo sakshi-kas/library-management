@@ -24,23 +24,52 @@ Front End and Back End
 2.	Back End: MySQL
 How project works?
 Some screenshots are given below:
-  
- 
 
- 
- 
- 
+![]{https://github.com/sakshi-kas/library-management/blob/master/1.png)
+
+![]{https://github.com/sakshi-kas/library-management/blob/master/2.png)
+
+![]{https://github.com/sakshi-kas/library-management/blob/master/3.png)
+
+
+![]{https://github.com/sakshi-kas/library-management/blob/master/4.png)
+
+![]{https://github.com/sakshi-kas/library-management/blob/master/5.png)
+
+![]{https://github.com/sakshi-kas/library-management/blob/master/6.png)
+
+![]{https://github.com/sakshi-kas/library-management/blob/master/7.png)
+
+![]{https://github.com/sakshi-kas/library-management/blob/master/8.png)
+
+![]{https://github.com/sakshi-kas/library-management/blob/master/9.png)
+
+![]{https://github.com/sakshi-kas/library-management/blob/master/10.png)
+
+![]{https://github.com/sakshi-kas/library-management/blob/master/11.png)
+
+![]{https://github.com/sakshi-kas/library-management/blob/master/12.png)
+
+![]{https://github.com/sakshi-kas/library-management/blob/master/13.png)
+
+![]{https://github.com/sakshi-kas/library-management/blob/master/14.png)
+
+![]{https://github.com/sakshi-kas/library-management/blob/master/15.png)
+
+![]{https://github.com/sakshi-kas/library-management/blob/master/16.png)
+
 
 
 Class Diagram
+![]{https://github.com/sakshi-kas/library-management/blob/master/17.png)
  
 Activity Diagram
+ ![]{https://github.com/sakshi-kas/library-management/blob/master/18.png)
+
+
  
 
-ER Diagram
- 
 
-Sequencial Diagram
 
 
  
